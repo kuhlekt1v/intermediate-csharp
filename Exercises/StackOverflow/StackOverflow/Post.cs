@@ -10,13 +10,11 @@ namespace StackOverflow
         public string Description { get; private set; }
         public DateTime DateTimeCreated { get; } = DateTime.Now;
 
-
         public Post(string title, string desc)
         {
             Title = title;
             Description = desc;
         }
-
 
         public void UpVote()
         {

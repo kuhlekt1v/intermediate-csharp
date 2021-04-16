@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ctor-Inheritance", "Ctor-Inheritance\Ctor-Inheritance.csproj", "{2CA542DE-CDA0-44C3-8F2D-3A54F62FBBBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CA542DE-CDA0-44C3-8F2D-3A54F62FBBBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CA542DE-CDA0-44C3-8F2D-3A54F62FBBBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CA542DE-CDA0-44C3-8F2D-3A54F62FBBBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CA542DE-CDA0-44C3-8F2D-3A54F62FBBBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46DD4825-1C36-42AB-956A-E1D24AA1D56D}
+	EndGlobalSection
+EndGlobal
